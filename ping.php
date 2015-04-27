@@ -1,5 +1,7 @@
 <?php
 
+global $myBlogName, $myBlogUrl, $myBlogUpdateUrl, $myBlogRSSFeedUrl;
+
 $myBlogName = 'My Blog Title';
 $myBlogUrl = 'http://MyBlogDomain.com';
 $myBlogUpdateUrl = 'http://MyBlogDomain';
